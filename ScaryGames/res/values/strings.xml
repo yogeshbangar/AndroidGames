@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Scary Games</string>
+    <string name="digit">abcdefghijklmnopqrstuvwxyz0123456789</string>
+    <string name="Banner">ca-app-pub-3395412980708319/6482510985</string>
+    <string name="House">ca-app-pub-3395412980708319/7959244189</string>
+    <string name="INTERSTITIAL_ID">ca-app-pub-3395412980708319/5780626184</string>
+</resources>

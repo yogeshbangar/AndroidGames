@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+  <string name="app_id">487064993234</string>
+  <string name="achievement_one_bike_unlock">CgkI0vvXupYOEAIQAQ</string>
+  <string name="achievement_one_world_unlock">CgkI0vvXupYOEAIQAg</string>
+  <string name="achievement_five_bike_unlock">CgkI0vvXupYOEAIQAw</string>
+  <string name="achievement_10_bike_unlock">CgkI0vvXupYOEAIQBA</string>
+  <string name="achievement_all_bike_unlock">CgkI0vvXupYOEAIQBQ</string>
+  <string name="achievement_all_world_unlock">CgkI0vvXupYOEAIQBg</string>
+  <string name="leaderboard_score">CgkI0vvXupYOEAIQBw</string>
+</resources>

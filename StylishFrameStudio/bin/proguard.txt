@@ -1,0 +1,18 @@
+# view AndroidManifest.xml #generated:26
+-keep class com.google.android.gms.ads.AdActivity { <init>(...); }
+
+# view res/layout/game.xml #generated:24
+-keep class com.google.android.gms.ads.AdView { <init>(...); }
+
+# view res/layout/game.xml #generated:16
+-keep class com.google.android.gms.plus.PlusOneButton { <init>(...); }
+
+# view AndroidManifest.xml #generated:24
+-keep class com.httgames.app.stylishframestudio.BrowsePicture2 { <init>(...); }
+
+# view AndroidManifest.xml #generated:16
+-keep class com.httgames.app.stylishframestudio.Start { <init>(...); }
+
+# view res/layout/game.xml #generated:9
+-keep class com.httgames.app.stylishframestudio.VortexView { <init>(...); }
+

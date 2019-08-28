@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <LinearLayout android:id="@+id/addmain" android:layout_width="wrap_content" 
+    	android:layout_height="wrap_content" android:orientation="vertical"></LinearLayout> 
+    <ListView android:id="@android:id/list" 
+            android:layout_width="fill_parent" 
+            android:layout_height="fill_parent"
+            android:background="@drawable/back2"
+            android:dividerHeight="0px"
+            android:divider="@android:color/transparent"
+            android:listSelector="@android:color/transparent"
+            android:cacheColorHint="#00000000"/>
+</LinearLayout>
+ -->
+<!--   
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+	<FrameLayout android:orientation = "vertical" android:layout_width = "fill_parent" android:layout_height = "fill_parent">
+		<ListView android:id="@android:id/list" android:layout_width="fill_parent" android:layout_height="fill_parent" android:background="@drawable/back" android:cacheColorHint="#00000000"/>
+    	<LinearLayout android:id="@+id/addmain" android:layout_width="wrap_content" android:layout_height="wrap_content" android:orientation="horizontal" android:layout_gravity="bottom|center_horizontal"/>
+	</FrameLayout>
+</LinearLayout>
+
+-->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:layout_width="fill_parent" 
+    android:layout_height="fill_parent" android:background="@drawable/back">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top|center"
+        android:padding="20dip"
+        android:text="Achievements"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+	<FrameLayout android:orientation = "vertical" android:layout_width = "fill_parent" android:layout_height = "fill_parent">
+		<ListView android:id="@android:id/list" android:layout_width="fill_parent" android:layout_height="fill_parent" android:cacheColorHint="#00000000"/>
+    	<LinearLayout android:id="@+id/addmain" android:layout_width="wrap_content" android:layout_height="wrap_content" android:orientation="horizontal" android:layout_gravity="bottom|center_horizontal"/>
+	</FrameLayout>
+</LinearLayout>

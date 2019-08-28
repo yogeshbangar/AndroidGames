@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+  <string name="app_id">183075533825</string>
+  <string name="achievement_smart_penguin">CgkIgeibgaoFEAIQAQ</string>
+  <string name="achievement_master_penguin">CgkIgeibgaoFEAIQAg</string>
+  <string name="achievement_jump_penguin">CgkIgeibgaoFEAIQAw</string>
+  <string name="achievement_fast_penguin">CgkIgeibgaoFEAIQBA</string>
+  <string name="achievement_king_penguin">CgkIgeibgaoFEAIQBQ</string>
+  <string name="leaderboard_classic_mode">CgkIgeibgaoFEAIQBw</string>
+  <string name="leaderboard_time_travel">CgkIgeibgaoFEAIQCA</string>
+  <string name="leaderboard_survival">CgkIgeibgaoFEAIQCQ</string>
+</resources>

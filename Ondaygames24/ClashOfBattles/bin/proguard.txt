@@ -1,0 +1,9 @@
+# view AndroidManifest.xml #generated:19
+-keep class com.google.android.gms.ads.AdActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:12
+-keep class com.oneday.games24.clashofbattles.Start { <init>(...); }
+
+# view res/layout/game.xml #generated:9
+-keep class com.oneday.games24.clashofbattles.VortexView { <init>(...); }
+

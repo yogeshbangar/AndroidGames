@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Banner">ca-app-pub-7665074309496944/1393040914</string>
+    <string name="Interstitial">ca-app-pub-7665074309496944/2869774113</string>
+    <string name="app_name">Penguin Field Marshal</string>
+    <string name="sign_in_to_upload_this_score">Sign in now to upload this score, save your achievements and share your progress with friends.</string>
+    <string name="gamehelper_sign_in_failed">Failed to sign in. Please check your network connection and try again.</string>
+    <string name="gamehelper_app_misconfigured">The application is incorrectly configured. Check that the package name and signing certificate match the client ID created in Developer Console. Also, if the application is not yet published, check that the account you are trying to sign in with is listed as a tester account. See logs for more information.</string>
+    <string name="gamehelper_license_failed">License check failed.</string>
+    <string name="gamehelper_unknown_error">Unknown error.</string>
+    
+    <string name="Rank_1">Lieutenant</string>
+    <string name="Rank_2">Captain</string>
+    <string name="Rank_3">Major</string>
+    <string name="Rank_4">Lieutenant Colonel</string>
+    <string name="Rank_5">Colonel</string>
+    <string name="Rank_6">Brigadier</string>
+    <string name="Rank_7">Major General</string>
+    <string name="Rank_8">Lieutenant General</string>
+    <string name="Rank_9">General</string>
+    <string name="Rank_10">Field Marshal</string>
+    
+    <string name="LEVEL_1_ACH_1">Pingu blaster:-Blast 100 pingus total in game.</string>
+    <string name="LEVEL_1_ACH_2">Master pingu blaster:- Blast 1000 pingus total in game. </string>
+    <string name="LEVEL_1_ACH_3">Fast pingu blaster:- Blast 170 pingus total in one game.</string>
+    <string name="LEVEL_1_ACH_4">King pingu blaster:- Blast 20 pingus in first 5 seconds.</string>
+    
+    <string name="LEVEL_2_ACH_1">Pingu jumper:-Jump 1000 meter total in game.</string>
+    <string name="LEVEL_2_ACH_2">Master pingu jumper:- Jump 5000 meter total in game. </string>
+    <string name="LEVEL_2_ACH_3">Safe pingu jumper:- Jump 300 meter total in one game.</string>
+    <string name="LEVEL_2_ACH_4">King pingu jumper:- Jump 200 meter without falling.</string>
+    
+    <string name="LEVEL_3_ACH_1">Pingu painter:-Paint 500 pingus total in game.</string>
+    <string name="LEVEL_3_ACH_2">Master pingu painter:- Paint 2000 pingus total in game. </string>
+    <string name="LEVEL_3_ACH_3">Fast pingu painter:- Paint 250 pingus total in one game.</string>
+    <string name="LEVEL_3_ACH_4">King pingu painter:- Paint 20 pingus in first 5 seconds.</string>
+    
+    <string name="LEVEL_4_ACH_1">Pingu pilot:-Collect 1000 pingus total in game.</string>
+    <string name="LEVEL_4_ACH_2">Master pingu pilot:- Collect 1000 pingus total in game. </string>
+    <string name="LEVEL_4_ACH_3">Super pingu pilot:- Collect 450 pingus total in one game.</string>
+    <string name="LEVEL_4_ACH_4">King pingu pilot:- Collect 20 pingus in first 5 seconds.</string>
+    
+    <string name="LEVEL_5_ACH_1">Pingu dive:-Collect 300 numbler total in game.</string>
+    <string name="LEVEL_5_ACH_2">Master pingu dive:- Collect 1000 numbler total in game. </string>
+    <string name="LEVEL_5_ACH_3">Fast pingu dive:- Collect 100 numbler total in one game.</string>
+    <string name="LEVEL_5_ACH_4">King pingu dive:- Collect 8 numbler in first 5 seconds.</string>
+    
+    <string name="LEVEL_6_ACH_1">Pingu fisher:-Collect 500 fish total in game.</string>
+    <string name="LEVEL_6_ACH_2">Master pingu fisher:- Collect 2000 fish total in game. </string>
+    <string name="LEVEL_6_ACH_3">Big pingu fisher:- Collect 100 fish total in one game.</string>
+    <string name="LEVEL_6_ACH_4">King pingu fisher:- Collect 5 fish in first 5 seconds.</string>
+    
+    <string name="LEVEL_7_ACH_1">Pingu Builder:-Build 1000 block total in game.</string>
+    <string name="LEVEL_7_ACH_2">Master pingu Builder:- Build 5000 block total in game. </string>
+    <string name="LEVEL_7_ACH_3">pingu Building maker:- Build 500 block total in one game.</string>
+    <string name="LEVEL_7_ACH_4">King pingu Builder:- Build 10 floor with 8 block each.</string>
+    
+    <string name="LEVEL_8_ACH_1">Pingu hunter:-Collect 300 fish total in game.</string>
+    <string name="LEVEL_8_ACH_2">Master pingu hunter:- Collect 1500 fish total in game. </string>
+    <string name="LEVEL_8_ACH_3">Big pingu hunter:- Collect 170 fish total in one game.</string>
+    <string name="LEVEL_8_ACH_4">King pingu hunter:- Collect 9 fish in first 5 seconds.</string>
+    
+    
+    <string name="LEVEL_9_ACH_1">Pingu tracker:-Jump 1000 meter total in game.</string>
+    <string name="LEVEL_9_ACH_2">Master pingu tracker:- Jump 3000 meter total in game. </string>
+    <string name="LEVEL_9_ACH_3">High pingu tracker:- Jump 170 meter total in one game.</string>
+    <string name="LEVEL_9_ACH_4">King pingu tracker:- Jump 100 meter without falling.</string>
+    
+    <string name="LEVEL_10_ACH_1">Pingu surfer:-surf 1000 meter total in game.</string>
+    <string name="LEVEL_10_ACH_2">Master pingu surfer:- surf 5000 meter total in game. </string>
+    <string name="LEVEL_10_ACH_3">High pingu surfer:- surf 270 meter total in one game.</string>
+    <string name="LEVEL_10_ACH_4">King pingu surfer:- surf 100 meter without hitting.</string>
+    
+    <string name="LEVEL_11_ACH_1">Double blaster:-Blast 1000 pingus total in game.</string>
+    <string name="LEVEL_11_ACH_2">Master double blaster:- Blast 5000 pingus total in game. </string>
+    <string name="LEVEL_11_ACH_3">Fast double blaster:- Blast 400 pingus total in one game.</string>
+    <string name="LEVEL_11_ACH_4">King double blaster:- Blast 42 pingus in first 5 seconds.</string>
+    
+    <string name="LEVEL_12_ACH_1">Fish eater:-Eat 1000 fish total in game.</string>
+    <string name="LEVEL_12_ACH_2">Master fish eater:- Eat 3000 fish total in game. </string>
+    <string name="LEVEL_12_ACH_3">Fast fish eater:- Eat 300 fish total in one game.</string>
+    <string name="LEVEL_12_ACH_4">King fish eater:- Eat 50 fish without falling.</string>
+    
+    <string name="LEVEL_13_ACH_1">Pingu springer:-Collect 1000 fish total in game.</string>
+    <string name="LEVEL_13_ACH_2">Master pingu springer:- Collect 2000 fish total in game. </string>
+    <string name="LEVEL_13_ACH_3">Fast pingu springer:- Collect 100 fish total in one game.</string>
+    <string name="LEVEL_13_ACH_4">King pingu springer:- Collect 30 fish without hitting.</string>
+    
+   <string name="Help_1">Pop as many penguin as you can!</string>
+    <string name="Help_2">Jump as far as you can!</string>
+    <string name="Help_3">Pain the penguin the same color!</string>
+    <string name="Help_4">Collect as many pingu as you can!</string>
+    <string name="Help_5">Collect as many as you can!</string>
+    <string name="Help_6">Eat as many fish as you can!</string>
+    <string name="Help_7">Major General</string>
+    <string name="Help_8">Lieutenant General</string>
+    <string name="Help_9">General</string>
+    <string name="Help_10">Field Marshal</string>
+    
+    
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="horizontal"
+    >
+ <FrameLayout
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:keepScreenOn="true"
+    android:orientation="horizontal" >
+    <com.google.android.gms.ads.AdView android:id="@+id/adBanner"
+     android:orientation="horizontal"  android:layout_gravity="bottom|center_horizontal"
+     android:layout_width="wrap_content" android:layout_height="wrap_content"
+     ads:adSize="SMART_BANNER" ads:adUnitId="@string/Banner" />   </FrameLayout>
+</LinearLayout>

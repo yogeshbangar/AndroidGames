@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+  <string name="app_id">140388985802</string>
+  <string name="achievement_drive_10000_meter">CgkIytfX_ooEEAIQAQ</string>
+  <string name="achievement_drive_25000_meter">CgkIytfX_ooEEAIQAg</string>
+  <string name="achievement_collect_5000_coin">CgkIytfX_ooEEAIQAw</string>
+  <string name="achievement_collect_12000_coin">CgkIytfX_ooEEAIQBA</string>
+  <string name="achievement_collide_100_coin_boat">CgkIytfX_ooEEAIQBQ</string>
+  <string name="achievement_collide_500_coin_boat">CgkIytfX_ooEEAIQBw</string>
+  <string name="achievement_blast_100_opponent_car">CgkIytfX_ooEEAIQCA</string>
+  <string name="achievement_blast_500_opponent_car">CgkIytfX_ooEEAIQCQ</string>
+  <string name="achievement_collect_1000_diamond">CgkIytfX_ooEEAIQCg</string>
+  <string name="achievement_collect_3000_diamond">CgkIytfX_ooEEAIQCw</string>
+  <string name="leaderboard_best_score">CgkIytfX_ooEEAIQBg</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+  <string name="app_id">830313824686</string>
+  <string name="achievement_power_achiever">CgkIroO-lJUYEAIQAQ</string>
+  <string name="achievement_striker">CgkIroO-lJUYEAIQAg</string>
+  <string name="achievement_empirer">CgkIroO-lJUYEAIQAw</string>
+  <string name="achievement_bow_player">CgkIroO-lJUYEAIQBA</string>
+  <string name="achievement_freezer">CgkIroO-lJUYEAIQBQ</string>
+  <string name="achievement_earner">CgkIroO-lJUYEAIQBg</string>
+  <string name="achievement_sparkler">CgkIroO-lJUYEAIQBw</string>
+  <string name="achievement_senior_earner">CgkIroO-lJUYEAIQCA</string>
+  <string name="achievement_crystaler">CgkIroO-lJUYEAIQCQ</string>
+  <string name="achievement_senior_crystaler">CgkIroO-lJUYEAIQCg</string>
+  <string name="achievement_master_crystaler">CgkIroO-lJUYEAIQCw</string>
+  <string name="achievement_master__earner">CgkIroO-lJUYEAIQDA</string>
+  <string name="achievement_gold_wall">CgkIroO-lJUYEAIQDQ</string>
+  <string name="achievement_player">CgkIroO-lJUYEAIQDg</string>
+  <string name="achievement_platinum_wall">CgkIroO-lJUYEAIQDw</string>
+  <string name="achievement_senior_player">CgkIroO-lJUYEAIQEA</string>
+  <string name="achievement_king_of_tower">CgkIroO-lJUYEAIQEQ</string>
+  <string name="achievement_bow_senior_player">CgkIroO-lJUYEAIQEg</string>
+  <string name="achievement_master__player">CgkIroO-lJUYEAIQEw</string>
+  <string name="achievement_defender">CgkIroO-lJUYEAIQFA</string>
+  <string name="achievement_senior_defender">CgkIroO-lJUYEAIQFQ</string>
+  <string name="achievement_mater_defender">CgkIroO-lJUYEAIQFg</string>
+  <string name="achievement_force_master">CgkIroO-lJUYEAIQFw</string>
+  <string name="achievement_brio_master">CgkIroO-lJUYEAIQGA</string>
+  <string name="achievement_fire_master">CgkIroO-lJUYEAIQGQ</string>
+  <string name="achievement_bow_master_player">CgkIroO-lJUYEAIQGg</string>
+  <string name="leaderboard_score">CgkIroO-lJUYEAIQGw</string>
+</resources>

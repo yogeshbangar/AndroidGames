@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Boom BaseBall</string>
+    <string name="sign_in_to_upload_this_score">Sign in now to upload this score, save your achievements and share your progress with friends.</string>
+    <string name="gamehelper_sign_in_failed">Failed to sign in. Please check your network connection and try again.</string>
+    <string name="gamehelper_app_misconfigured">The application is incorrectly configured. Check that the package name and signing certificate match the client ID created in Developer Console. Also, if the application is not yet published, check that the account you are trying to sign in with is listed as a tester account. See logs for more information.</string>
+    <string name="gamehelper_license_failed">License check failed.</string>
+    <string name="gamehelper_unknown_error">Unknown error.</string>
+    
+    <string name="text1">You have to hit 5 cars in a game</string>
+    <string name="text2">You have to hit 10 cars in game</string>
+    <string name="text3">You have to hit 50 cars in game</string>
+    <string name="text4">You have to hit door 25 times in game</string>
+    <string name="text5">You have to hit roof 25 times in game</string>
+    <string name="text6">You have to hit ball on consecutive 3 times</string>
+    <string name="text7">You have to hit ball on consecutive 5 times</string>
+    <string name="text8">You have to hit ball on consecutive 10 times</string>
+    <string name="text9">You have to hit ball on consecutive 15 times</string>
+    <string name="text10">You have to hit ball on consecutive 25 times</string>
+    <string name="text11">You have to hit ball 100 times in game</string>
+    <string name="text12">You have to hit ball 200 times in game</string>
+    <string name="text13">You have to hit ball 500 times in game</string>
+    <string name="text14">You have to hit ball 1000 times in game</string>
+    <string name="text15">If you miss the ball consecutive three times</string>
+    <string name="text16">You have to break 3 windows consecutive</string>
+    <string name="text17">You have to break 5 windows consecutive</string>
+    <string name="text18">You have to break 10 windows consecutive</string>
+    <string name="text19">You have to break 500 windows in game</string>
+    <string name="text20">You have to break 1000 windows in game</string>
+    <string name="text21">You have to hit balloon 25 times in game</string>
+    
+    
+    
+    
+</resources>

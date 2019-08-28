@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Stylish Photo Frame Studio</string>
+    <string name="Banner">ca-app-pub-3846206972773241/9700751013</string>
+    <string name="INTERSTITIAL_ID">ca-app-pub-3846206972773241/6468083015</string>
+    <string name="FOLDER">You did not create any frame.</string>
+    <string name="Exit">Do you want to Exit?</string>
+    <string name="Save">Do you want to ?</string>
+</resources>

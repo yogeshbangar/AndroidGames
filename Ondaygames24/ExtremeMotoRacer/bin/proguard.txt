@@ -1,0 +1,37 @@
+# view AndroidManifest.xml #generated:26
+-keep class com.google.android.gms.ads.AdActivity { <init>(...); }
+
+# view res/layout/game.xml #generated:10
+# view res/layout/game.xml #generated:14
+-keep class com.google.android.gms.ads.AdView { <init>(...); }
+
+# view AndroidManifest.xml #generated:22
+-keep class com.oneday.games24.extrememotoracer.AboutUs { <init>(...); }
+
+# view AndroidManifest.xml #generated:23
+-keep class com.oneday.games24.extrememotoracer.AchieveList { <init>(...); }
+
+# view AndroidManifest.xml #generated:21
+-keep class com.oneday.games24.extrememotoracer.MList { <init>(...); }
+
+# view AndroidManifest.xml #generated:24
+-keep class com.oneday.games24.extrememotoracer.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:13
+-keep class com.oneday.games24.extrememotoracer.Start { <init>(...); }
+
+# view res/layout/game.xml #generated:9
+-keep class com.oneday.games24.extrememotoracer.VortexView { <init>(...); }
+
+# onClick res/layout/activity_main.xml #generated:50
+-keepclassmembers class * { *** onBuyGasButtonClicked(...); }
+
+# onClick res/layout/activity_main.xml #generated:43
+-keepclassmembers class * { *** onDriveButtonClicked(...); }
+
+# onClick res/layout/activity_main.xml #generated:73
+-keepclassmembers class * { *** onInfiniteGasButtonClicked(...); }
+
+# onClick res/layout/activity_main.xml #generated:65
+-keepclassmembers class * { *** onUpgradeAppButtonClicked(...); }
+

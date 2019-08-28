@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+  <string name="app_id">330068601159</string>
+  <string name="achievement_apple_candy">CgkIx9L8zM0JEAIQAQ</string>
+  <string name="achievement_apricot_candy">CgkIx9L8zM0JEAIQBA</string>
+  <string name="achievement_banana_candy">CgkIx9L8zM0JEAIQBQ</string>
+  <string name="achievement_blackberry_candy">CgkIx9L8zM0JEAIQBg</string>
+  <string name="achievement_blueberry_candy">CgkIx9L8zM0JEAIQBw</string>
+  <string name="achievement_cherry_candy">CgkIx9L8zM0JEAIQCA</string>
+  <string name="achievement_chokeberry_candy">CgkIx9L8zM0JEAIQCQ</string>
+  <string name="achievement_dates_candy">CgkIx9L8zM0JEAIQCg</string>
+  <string name="achievement_grapes_candy">CgkIx9L8zM0JEAIQCw</string>
+  <string name="achievement_kiwi_candy">CgkIx9L8zM0JEAIQDA</string>
+  <string name="achievement_lemon_candy">CgkIx9L8zM0JEAIQDQ</string>
+  <string name="achievement_lychee_candy">CgkIx9L8zM0JEAIQDg</string>
+  <string name="achievement_mango_candy">CgkIx9L8zM0JEAIQDw</string>
+  <string name="achievement_melon_candy">CgkIx9L8zM0JEAIQEA</string>
+  <string name="achievement_mixfruits_candy">CgkIx9L8zM0JEAIQEQ</string>
+  <string name="achievement_mulberry_candy">CgkIx9L8zM0JEAIQEg</string>
+  <string name="achievement_orenge_candy">CgkIx9L8zM0JEAIQEw</string>
+  <string name="achievement_papaya_candy">CgkIx9L8zM0JEAIQFA</string>
+  <string name="achievement_pear_candy">CgkIx9L8zM0JEAIQFQ</string>
+  <string name="achievement_pineapple_candy">CgkIx9L8zM0JEAIQFg</string>
+  <string name="achievement_plum_candy">CgkIx9L8zM0JEAIQFw</string>
+  <string name="achievement_pomogranate_candy">CgkIx9L8zM0JEAIQGA</string>
+  <string name="achievement_starfruit_candy">CgkIx9L8zM0JEAIQGQ</string>
+  <string name="achievement_strawberry_candy">CgkIx9L8zM0JEAIQGg</string>
+  <string name="achievement_sweetlime_candy">CgkIx9L8zM0JEAIQGw</string>
+  <string name="leaderboard_puzzle_score">CgkIx9L8zM0JEAIQAg</string>
+  <string name="leaderboard_arcade_score">CgkIx9L8zM0JEAIQAw</string>
+</resources>

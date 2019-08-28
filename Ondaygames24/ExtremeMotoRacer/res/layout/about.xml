@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+	<FrameLayout android:orientation = "vertical" android:layout_width = "fill_parent" android:layout_height = "fill_parent">
+		<ListView android:id="@android:id/list" android:layout_width="fill_parent" android:layout_height="fill_parent" android:background="@drawable/back" android:dividerHeight="0px" android:divider="@android:color/transparent" android:listSelector="@android:color/transparent" android:cacheColorHint="#00000000"/>
+    	<LinearLayout android:id="@+id/addabout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:orientation="horizontal" android:layout_gravity="bottom|center_horizontal"/>
+	</FrameLayout>
+</LinearLayout>

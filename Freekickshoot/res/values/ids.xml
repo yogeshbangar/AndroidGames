@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+  <string name="app_id">516843101738</string>
+  <string name="achievement_perfect_shooter">CgkIqrz_sYUPEAIQAQ</string>
+  <string name="achievement_master_shooter">CgkIqrz_sYUPEAIQAg</string>
+  <string name="achievement_expert_shooter">CgkIqrz_sYUPEAIQAw</string>
+  <string name="achievement_specialist_shooter">CgkIqrz_sYUPEAIQBA</string>
+  <string name="achievement_king_shooter">CgkIqrz_sYUPEAIQBQ</string>
+  <string name="leaderboard_quick_shoot">CgkIqrz_sYUPEAIQBg</string>
+  <string name="leaderboard_arcade">CgkIqrz_sYUPEAIQBw</string>
+  <string name="leaderboard_tournament">CgkIqrz_sYUPEAIQCA</string>
+</resources>

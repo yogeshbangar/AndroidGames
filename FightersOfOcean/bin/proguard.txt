@@ -1,0 +1,9 @@
+# view AndroidManifest.xml #generated:19
+-keep class com.google.ads.AdActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:13
+-keep class com.hututu.games.fightersofocean.Start { <init>(...); }
+
+# view res/layout/game.xml #generated:6
+-keep class com.hututu.games.fightersofocean.VortexView { <init>(...); }
+

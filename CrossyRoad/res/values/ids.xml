@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+  <string name="app_id">1029570211086</string>
+  <string name="achievement_baller">CgkIjtqqufsdEAIQAQ</string>
+  <string name="achievement_bhalu">CgkIjtqqufsdEAIQAg</string>
+  <string name="achievement_boltman">CgkIjtqqufsdEAIQAw</string>
+  <string name="achievement_boy">CgkIjtqqufsdEAIQBA</string>
+  <string name="achievement_chicken">CgkIjtqqufsdEAIQBQ</string>
+  <string name="achievement_cow">CgkIjtqqufsdEAIQBg</string>
+  <string name="achievement_crocodile">CgkIjtqqufsdEAIQBw</string>
+  <string name="achievement_crying_boy">CgkIjtqqufsdEAIQCA</string>
+  <string name="achievement_dog">CgkIjtqqufsdEAIQCQ</string>
+  <string name="achievement_dragon">CgkIjtqqufsdEAIQCg</string>
+  <string name="achievement_elephant">CgkIjtqqufsdEAIQCw</string>
+  <string name="achievement_frenkenstein">CgkIjtqqufsdEAIQDA</string>
+  <string name="achievement_horse">CgkIjtqqufsdEAIQDQ</string>
+  <string name="achievement_girrafe">CgkIjtqqufsdEAIQDg</string>
+  <string name="achievement_lion">CgkIjtqqufsdEAIQDw</string>
+  <string name="achievement_mallard">CgkIjtqqufsdEAIQEA</string>
+  <string name="achievement_man">CgkIjtqqufsdEAIQEQ</string>
+  <string name="achievement_meerkat">CgkIjtqqufsdEAIQEg</string>
+  <string name="achievement_wizard">CgkIjtqqufsdEAIQEw</string>
+  <string name="achievement_mad_bull">CgkIjtqqufsdEAIQFA</string>
+  <string name="achievement_panda">CgkIjtqqufsdEAIQFQ</string>
+  <string name="achievement_pig">CgkIjtqqufsdEAIQFg</string>
+  <string name="achievement_pigeon">CgkIjtqqufsdEAIQFw</string>
+  <string name="achievement_pltypus">CgkIjtqqufsdEAIQGA</string>
+  <string name="achievement_poppy">CgkIjtqqufsdEAIQGQ</string>
+  <string name="achievement_pug">CgkIjtqqufsdEAIQGg</string>
+  <string name="achievement_scruffy">CgkIjtqqufsdEAIQGw</string>
+  <string name="achievement_sleeping_man">CgkIjtqqufsdEAIQHA</string>
+  <string name="achievement_speciman">CgkIjtqqufsdEAIQHQ</string>
+  <string name="achievement_ghost">CgkIjtqqufsdEAIQHg</string>
+  <string name="achievement_turtle">CgkIjtqqufsdEAIQHw</string>
+  <string name="achievement_vampire">CgkIjtqqufsdEAIQIA</string>
+  <string name="achievement_zombie">CgkIjtqqufsdEAIQIQ</string>
+  <string name="leaderboard_best_score">CgkIjtqqufsdEAIQIg</string>
+</resources>

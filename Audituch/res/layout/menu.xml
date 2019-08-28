@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center_horizontal" android:background="@drawable/menu">
+    <LinearLayout android:id="@+id/addmenu" android:layout_width="match_parent" 
+    	android:layout_height="wrap_content" android:orientation="vertical"></LinearLayout>
+    <LinearLayout android:padding ="10dp" android:layout_height="wrap_content"  android:id="@+id/lay1" android:layout_width="wrap_content" android:gravity="center_vertical" >
+    	<LinearLayout android:padding ="10dp" android:layout_weight="1" android:layout_height="wrap_content"  android:layout_width="wrap_content" android:gravity="center_vertical" >
+    	<ImageButton android:layout_width="wrap_content" android:background="@drawable/soundxon"   android:gravity="center_vertical" android:layout_height="wrap_content" android:id="@+id/IB3"></ImageButton>
+		
+	    </LinearLayout>
+        
+	</LinearLayout>
+    
+    <LinearLayout android:padding ="5dp" android:layout_height="wrap_content"  android:id="@+id/lay1" android:layout_width="wrap_content" android:gravity="center_vertical" >
+    	<LinearLayout android:padding ="10dp" android:layout_weight="1" android:layout_height="wrap_content"  android:layout_width="wrap_content" android:gravity="center_vertical" >
+			<ImageButton android:layout_width="wrap_content" android:background="@drawable/new_game_button"  android:gravity="center_vertical" android:layout_height="wrap_content" android:id="@+id/IB0"></ImageButton>
+	    </LinearLayout>        
+	</LinearLayout>
+    
+   
+    <LinearLayout android:layout_height="wrap_content" android:id="@+id/lay2" android:layout_width="wrap_content" android:gravity="center_vertical" >
+	    <LinearLayout android:padding ="10dp" android:layout_weight="1" android:layout_height="wrap_content"  android:layout_width="wrap_content" android:gravity="center_vertical" >
+			<ImageButton android:layout_width="wrap_content" android:background="@drawable/high_score_button"  android:gravity="center_vertical" android:layout_height="wrap_content" android:id="@+id/IB1"></ImageButton>
+	   	</LinearLayout>
+	   
+	</LinearLayout>
+   <LinearLayout android:layout_height="wrap_content" android:id="@+id/lay2" android:layout_width="wrap_content" android:gravity="center_vertical" >
+	    <LinearLayout android:padding ="10dp" android:layout_weight="1" android:layout_height="wrap_content"  android:layout_width="wrap_content" android:gravity="center_vertical" >
+			<ImageButton android:layout_width="wrap_content" android:background="@drawable/exit_button"   android:gravity="center_vertical" android:layout_height="wrap_content" android:id="@+id/IB2"></ImageButton>
+	   	</LinearLayout>
+	   
+	</LinearLayout>
+    <LinearLayout android:layout_height="wrap_content" android:id="@+id/lay2" android:layout_width="wrap_content" android:gravity="center_vertical" >
+	    <LinearLayout android:padding ="10dp" android:layout_weight="1" android:layout_height="wrap_content"  android:layout_width="wrap_content" android:gravity="center_vertical" >
+			
+	   	</LinearLayout>
+	   
+	</LinearLayout>
+	
+	<LinearLayout android:layout_height="wrap_content" android:id="@+id/lay2" android:layout_width="wrap_content" android:gravity="center_vertical" >
+	    <LinearLayout android:padding ="10dp" android:layout_weight="1" android:layout_height="wrap_content"  android:layout_width="wrap_content" android:gravity="center_horizontal" >
+	        
+		
+		<TextView android:text="                                  " android:textSize="15dp" 
+    		android:id="@+id/T111" android:layout_height="wrap_content" android:gravity="center"
+    		android:layout_width="match_parent"></TextView>
+		<ImageView android:src="@drawable/menuplate" android:layout_height="wrap_content" android:id="@+id/imageView2" android:layout_width="wrap_content"></ImageView>	    	
+	   	</LinearLayout>
+	   
+	</LinearLayout>
+	
+</LinearLayout>
+
+
+
+
+
+
+
+
+
+

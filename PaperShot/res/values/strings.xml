@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Paper Shoot!</string>
+    <string name="app_name">Paper Shoot</string>
+     <string name="digit">abcdefghijklmnopqrstuvwxyz0123456789</string>
+     <string name="Banner">ca-app-pub-3395412980708319/8517647389</string>
+     <string name="House">ca-app-pub-3395412980708319/9994380586</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:androidsam="http://schemas.android.com/apk/res/com.jameselsey"
+                android:id="@+id/sp2" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical" android:background="#FFFFFF" android:gravity="center_vertical">
+<LinearLayout android:id="@+id/addmain" android:layout_width="match_parent" 
+    	android:layout_height="wrap_content" android:orientation="vertical"></LinearLayout>                
+    <LinearLayout android:layout_width="fill_parent" android:id="@+id/sp1" android:layout_height="wrap_content"
+		android:gravity="bottom|center_vertical|center_horizontal" android:layout_alignParentBottom="true" android:layout_alignBottom="@+id/home_layout">
+		<ImageView android:layout_height="wrap_content" android:layout_width="wrap_content" 
+		    android:id="@+id/spimg" android:src="@drawable/mano"/> 
+    </LinearLayout>
+    
+</RelativeLayout>

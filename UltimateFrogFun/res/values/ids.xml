@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+  <string name="app_id">747668948593</string>
+  <string name="achievement_smart_frog">CgkI8YyrpOEVEAIQAQ</string>
+  <string name="achievement_master_frog">CgkI8YyrpOEVEAIQAg</string>
+  <string name="achievement_jump_frog">CgkI8YyrpOEVEAIQAw</string>
+  <string name="achievement_fast_frog">CgkI8YyrpOEVEAIQBA</string>
+  <string name="achievement_king_frog">CgkI8YyrpOEVEAIQBQ</string>
+  <string name="leaderboard_classic_mode">CgkI8YyrpOEVEAIQBg</string>
+  <string name="leaderboard_time_travel">CgkI8YyrpOEVEAIQBw</string>
+  <string name="leaderboard_survival">CgkI8YyrpOEVEAIQCA</string>
+</resources>

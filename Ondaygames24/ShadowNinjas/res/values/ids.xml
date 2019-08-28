@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+  <string name="app_id">164381623984</string>
+  <string name="achievement_brave_ninja">CgkIsI2ir-QEEAIQAQ</string>
+  <string name="achievement_daredevil_ninja">CgkIsI2ir-QEEAIQAg</string>
+  <string name="achievement_enthusiastic_ninja">CgkIsI2ir-QEEAIQAw</string>
+  <string name="achievement_adventurous_ninja">CgkIsI2ir-QEEAIQBA</string>
+  <string name="achievement_kill_shadow_ninja">CgkIsI2ir-QEEAIQBQ</string>
+  <string name="leaderboard_best_score">CgkIsI2ir-QEEAIQBg</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+  <string name="app_id">730332705050</string>
+  <string name="achievement_achievement_first">CgkImuLi2aAVEAIQAg</string>
+  <string name="achievement_achievement_second">CgkImuLi2aAVEAIQAw</string>
+  <string name="achievement_achievement_third">CgkImuLi2aAVEAIQBA</string>
+  <string name="achievement_achievement_fourth">CgkImuLi2aAVEAIQBQ</string>
+  <string name="achievement_achievement_fifth">CgkImuLi2aAVEAIQBg</string>
+  <string name="leaderboard_score">CgkImuLi2aAVEAIQAQ</string>
+  <string name="leaderboard_high_score">CgkImuLi2aAVEAIQBw</string>
+</resources>

@@ -1,0 +1,13 @@
+# view AndroidManifest.xml #generated:12
+-keep class com.Oneday.games24.towerempireglory.Start { <init>(...); }
+
+# view res/layout/game.xml #generated:14
+-keep class com.Oneday.games24.towerempireglory.VortexView { <init>(...); }
+
+# view AndroidManifest.xml #generated:19
+-keep class com.google.android.gms.ads.AdActivity { <init>(...); }
+
+# view res/layout/game.xml #generated:20
+# view res/layout/game.xml #generated:29
+-keep class com.google.android.gms.ads.AdView { <init>(...); }
+

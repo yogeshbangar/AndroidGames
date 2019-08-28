@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+  <string name="app_id">347245832992</string>
+  <string name="achievement_cross_four_pipe">CgkIoNbby40KEAIQAQ</string>
+  <string name="achievement_cross_10_pipe">CgkIoNbby40KEAIQAg</string>
+  <string name="achievement_cross_20_pipes">CgkIoNbby40KEAIQAw</string>
+  <string name="achievement_cross_50_pipes">CgkIoNbby40KEAIQBA</string>
+  <string name="achievement_cross_250_pipes">CgkIoNbby40KEAIQBQ</string>
+  <string name="leaderboard_flapy_cherry_bird">CgkIoNbby40KEAIQBg</string>
+</resources>

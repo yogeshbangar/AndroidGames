@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cricket Premier League</string>
+    <string name="sign_in_to_upload_this_score">Sign in now to upload this score, save your s and share your progress with friends.</string>
+    <string name="gamehelper_sign_in_failed">Failed to sign in. Please check your network connection and try again.</string>
+    <string name="gamehelper_app_misconfigured">The application is incorrectly configured. Check that the package name and signing certificate match the client ID created in Developer Console. Also, if the application is not yet published, check that the account you are trying to sign in with is listed as a tester account. See logs for more information.</string>
+    <string name="gamehelper_license_failed">License check failed.</string>
+    <string name="gamehelper_unknown_error">Unknown error.</string>
+    <string name="Banner">ca-app-pub-3395412980708319/2616946187</string>
+    <string name="INTERSTITIAL_ID">ca-app-pub-3395412980708319/4093679382</string>
+    
+    <!-- <string name="One">Fans</string>
+    <string name="Two">Star Batsman</string>
+    <string name="Three">Star Bowlers</string>
+    <string name="Four">Just for showing up</string>
+    <string name="Five">Team Bowling Coach</string>
+    <string name="Six">Star All-Rounders</string>
+    <string name="Seven">In a Spin ?</string>
+    <string name="Eight">Timing Is Everything</string> -->
+    
+    <string name="D_One">Stadium is full house, everyone cheers for his favorite teams and they want some aggressive batting performance.</string>
+    <string name="D_Two">Star batsman is in a tremendous batting form.Star batsman is deciding to kill bowler by aggressive batting, hitting ball very hard and out of the park.</string>
+    <string name="D_Three">Star bowler not see who batsman coming front of him.He uses the pitch condition very well and creates problems for every batsman and every time gives break through for his team real star for his team.</string>
+    <string name="D_Four">Finish of every match innings you play, you will get bonus money for playing match. It will balance your pocket to play more matches. </string>
+    <string name="D_Five">A Coach plays very important for a team, bowing coach shares all experience with his team     bowlers </string>
+    <string name="D_Six">A team is perfect if they have great all- rounder s these guys are perfect with bowl as well as they are   hard hitter with bat.  </string>
+    <string name="D_Seven">You lost timing against spin?Try to use some footwork to spoil rhythm of bowler</string>
+    <string name="D_Eight">CPL is all about your batting skills guess the ball direction and select your shots Tap in the direction you want to hit the ball. Judge ball correctly and disappear ball out of the park</string>
+    
+    <string name="DISCLAIMER">This is completely conceptual game. No real life sports team, board, legal body, or team player is associated  directly or indirectly with this game. We are not representing or endorsing any such association In our game software each image, character and graphics are result of our team imagination. Likeness or similarity with any other software or real life element is co-incidental All scores, figures, graphs and statistics are formula based and computer generated and calculated to be fare. We are not judging ability or performance of any individual player with our scoring method.</string>
+    
+     
+</resources>

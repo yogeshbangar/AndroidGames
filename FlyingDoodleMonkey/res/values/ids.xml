@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+  <string name="app_id">304952309080</string>
+  <string name="achievement_classic_jumper">CgkI2OrLhPAIEAIQAQ</string>
+  <string name="achievement_sharp_jumper">CgkI2OrLhPAIEAIQAg</string>
+  <string name="achievement_exalted_jumper">CgkI2OrLhPAIEAIQAw</string>
+  <string name="achievement_master_jumper">CgkI2OrLhPAIEAIQBA</string>
+  <string name="achievement_king_jumper">CgkI2OrLhPAIEAIQBQ</string>
+  <string name="leaderboard_best_score">CgkI2OrLhPAIEAIQBg</string>
+</resources>

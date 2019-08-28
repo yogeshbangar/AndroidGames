@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+  <string name="app_id">773749469192</string>
+  <string name="achievement_classic_zombile">CgkIiOC_uMIWEAIQAQ</string>
+  <string name="achievement_sharp_zombie">CgkIiOC_uMIWEAIQAg</string>
+  <string name="achievement_man_zombie">CgkIiOC_uMIWEAIQAw</string>
+  <string name="achievement_bird_zombie">CgkIiOC_uMIWEAIQBA</string>
+  <string name="achievement_snake_zombie">CgkIiOC_uMIWEAIQBQ</string>
+  <string name="leaderboard_best_score">CgkIiOC_uMIWEAIQBg</string>
+</resources>

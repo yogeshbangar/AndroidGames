@@ -1,0 +1,10 @@
+# view AndroidManifest.xml #generated:15
+-keep class com.google.android.gms.ads.AdActivity { <init>(...); }
+
+# view res/layout/game.xml #generated:14
+# view res/layout/game.xml #generated:19
+-keep class com.google.android.gms.ads.AdView { <init>(...); }
+
+# view AndroidManifest.xml #generated:8
+-keep class com.oneday.games24.fearlessmotoracing3d.Start { <init>(...); }
+

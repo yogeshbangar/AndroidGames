@@ -1,0 +1,13 @@
+# view AndroidManifest.xml #generated:20
+-keep class com.google.android.gms.ads.AdActivity { <init>(...); }
+
+# view res/layout/game.xml #generated:10
+# view res/layout/game.xml #generated:14
+-keep class com.google.android.gms.ads.AdView { <init>(...); }
+
+# view AndroidManifest.xml #generated:13
+-keep class com.onedaygames24.pokernpoker.Start { <init>(...); }
+
+# view res/layout/game.xml #generated:9
+-keep class com.onedaygames24.pokernpoker.VortexView { <init>(...); }
+

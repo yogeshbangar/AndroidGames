@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+  <string name="app_id">866823100097</string>
+  <string name="achievement_piano_master">CgkIwa27lZ0ZEAIQAQ</string>
+  <string name="achievement_piano_super_player">CgkIwa27lZ0ZEAIQAg</string>
+  <string name="achievement_king_piano_master">CgkIwa27lZ0ZEAIQAw</string>
+  <string name="achievement_time_piano_master">CgkIwa27lZ0ZEAIQBA</string>
+  <string name="achievement_super_time_piano_master">CgkIwa27lZ0ZEAIQBQ</string>
+  <string name="leaderboard_classic_25">CgkIwa27lZ0ZEAIQFw</string>
+  <string name="leaderboard_classic_50">CgkIwa27lZ0ZEAIQGA</string>
+  <string name="leaderboard_classic_100">CgkIwa27lZ0ZEAIQGQ</string>
+  <string name="leaderboard_arcade_normal">CgkIwa27lZ0ZEAIQCQ</string>
+  <string name="leaderboard_arcade_fast">CgkIwa27lZ0ZEAIQCg</string>
+  <string name="leaderboard_arcade_reverse">CgkIwa27lZ0ZEAIQCw</string>
+  <string name="leaderboard_time_travel_15_sec">CgkIwa27lZ0ZEAIQDA</string>
+  <string name="leaderboard_time_travel_30__sec">CgkIwa27lZ0ZEAIQDQ</string>
+  <string name="leaderboard_time_travel_60_sec">CgkIwa27lZ0ZEAIQDg</string>
+  <string name="leaderboard_inside_bomb">CgkIwa27lZ0ZEAIQDw</string>
+  <string name="leaderboard_inside_blinking">CgkIwa27lZ0ZEAIQEA</string>
+  <string name="leaderboard_inside_double_row">CgkIwa27lZ0ZEAIQEQ</string>
+  <string name="leaderboard_inside_double_tap">CgkIwa27lZ0ZEAIQEg</string>
+  <string name="leaderboard_inside_hide__seek">CgkIwa27lZ0ZEAIQEw</string>
+</resources>

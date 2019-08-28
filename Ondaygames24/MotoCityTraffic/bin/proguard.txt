@@ -1,0 +1,13 @@
+# view AndroidManifest.xml #generated:16
+-keep class com.google.android.gms.ads.AdActivity { <init>(...); }
+
+# view res/layout/game.xml #generated:10
+# view res/layout/game.xml #generated:16
+-keep class com.google.android.gms.ads.AdView { <init>(...); }
+
+# view AndroidManifest.xml #generated:9
+-keep class com.oneday.games24.motocitytraffic.Start { <init>(...); }
+
+# view res/layout/game.xml #generated:8
+-keep class com.oneday.games24.motocitytraffic.VortexView { <init>(...); }
+

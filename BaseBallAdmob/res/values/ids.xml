@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+  <string name="app_id">861013333221</string>
+  <string name="achievement_5_car_hit">CgkI5amTw4cZEAIQAQ</string>
+  <string name="achievement_10_car_hit">CgkI5amTw4cZEAIQAw</string>
+  <string name="achievement_50_car">CgkI5amTw4cZEAIQBA</string>
+  <string name="achievement_door_shot">CgkI5amTw4cZEAIQBQ</string>
+  <string name="achievement_roof_hit">CgkI5amTw4cZEAIQBg</string>
+  <string name="achievement_three_shot">CgkI5amTw4cZEAIQBw</string>
+  <string name="achievement_five_shot">CgkI5amTw4cZEAIQCA</string>
+  <string name="achievement_ten_shot">CgkI5amTw4cZEAIQCQ</string>
+  <string name="achievement_fifteen_shot">CgkI5amTw4cZEAIQCg</string>
+  <string name="achievement_twenty_five_shot">CgkI5amTw4cZEAIQCw</string>
+  <string name="achievement_hundred_shot">CgkI5amTw4cZEAIQDQ</string>
+  <string name="achievement_two_hundred_shot">CgkI5amTw4cZEAIQDg</string>
+  <string name="achievement_five_hundred_shot">CgkI5amTw4cZEAIQDw</string>
+  <string name="achievement_thousand_shot">CgkI5amTw4cZEAIQEA</string>
+  <string name="achievement_three_strike">CgkI5amTw4cZEAIQEQ</string>
+  <string name="achievement_window_three">CgkI5amTw4cZEAIQEg</string>
+  <string name="achievement_window_five">CgkI5amTw4cZEAIQEw</string>
+  <string name="achievement_window_ten">CgkI5amTw4cZEAIQFA</string>
+  <string name="achievement_windowfivehundred">CgkI5amTw4cZEAIQFQ</string>
+  <string name="achievement_windowsthousand">CgkI5amTw4cZEAIQFg</string>
+  <string name="achievement_balloontwentyfive">CgkI5amTw4cZEAIQFw</string>
+  <string name="leaderboard_boom_baseball">CgkI5amTw4cZEAIQAg</string>
+</resources>

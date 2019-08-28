@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+  <string name="app_id">943631235539</string>
+  <string name="achievement_cross10_car">CgkI0_O3prsbEAIQAQ</string>
+  <string name="achievement_cross25_car">CgkI0_O3prsbEAIQAg</string>
+  <string name="achievement_cross50_car">CgkI0_O3prsbEAIQAw</string>
+  <string name="achievement_cross100_car">CgkI0_O3prsbEAIQBA</string>
+  <string name="achievement_cross250_car">CgkI0_O3prsbEAIQBQ</string>
+  <string name="achievement_cross500_car">CgkI0_O3prsbEAIQBg</string>
+  <string name="achievement_cross1000_car">CgkI0_O3prsbEAIQBw</string>
+  <string name="achievement_cross2500_car">CgkI0_O3prsbEAIQCA</string>
+  <string name="achievement_cross5000_car">CgkI0_O3prsbEAIQCQ</string>
+  <string name="achievement_cross10000_car">CgkI0_O3prsbEAIQCg</string>
+  <string name="achievement_cross20000_car">CgkI0_O3prsbEAIQCw</string>
+  <string name="achievement_cross35000_car">CgkI0_O3prsbEAIQDA</string>
+  <string name="achievement_cross50000_car">CgkI0_O3prsbEAIQDQ</string>
+  <string name="achievement_cross75000_car">CgkI0_O3prsbEAIQDg</string>
+  <string name="achievement_cross100000_car">CgkI0_O3prsbEAIQDw</string>
+  <string name="achievement_unlock_world_2">CgkI0_O3prsbEAIQEA</string>
+  <string name="achievement_unlock_world_3">CgkI0_O3prsbEAIQEQ</string>
+  <string name="achievement_unlock_world_4">CgkI0_O3prsbEAIQEg</string>
+  <string name="achievement_unlock_world_5">CgkI0_O3prsbEAIQEw</string>
+  <string name="achievement_unlock_world_6">CgkI0_O3prsbEAIQFA</string>
+  <string name="achievement_unlock_world_7">CgkI0_O3prsbEAIQFQ</string>
+  <string name="achievement_unlock_world_8">CgkI0_O3prsbEAIQFg</string>
+  <string name="achievement_unlock_world_9">CgkI0_O3prsbEAIQFw</string>
+  <string name="achievement_unlock_world_10">CgkI0_O3prsbEAIQGA</string>
+  <string name="achievement_unlock_world_11">CgkI0_O3prsbEAIQGQ</string>
+  <string name="achievement_unlock_world_12">CgkI0_O3prsbEAIQGg</string>
+  <string name="achievement_unlock_bridge">CgkI0_O3prsbEAIQGw</string>
+  <string name="achievement_unlock_tunnel">CgkI0_O3prsbEAIQHA</string>
+  <string name="achievement_fast_car">CgkI0_O3prsbEAIQHQ</string>
+  <string name="achievement_unlock_slow_car">CgkI0_O3prsbEAIQHg</string>
+  <string name="achievement_unlock_stop_car">CgkI0_O3prsbEAIQHw</string>
+  <string name="achievement_bridge_full_upgrade">CgkI0_O3prsbEAIQIA</string>
+  <string name="achievement_tunnnel_full_upgrade">CgkI0_O3prsbEAIQIQ</string>
+  <string name="achievement_fast_car_full_upgrade">CgkI0_O3prsbEAIQIg</string>
+  <string name="achievement_slow_car_full">CgkI0_O3prsbEAIQIw</string>
+  <string name="achievement_stop_car_full">CgkI0_O3prsbEAIQJA</string>
+  <string name="achievement_5_stage">CgkI0_O3prsbEAIQJQ</string>
+  <string name="achievement_10_stage">CgkI0_O3prsbEAIQJg</string>
+  <string name="achievement_25_stage">CgkI0_O3prsbEAIQJw</string>
+  <string name="achievement_50_stage">CgkI0_O3prsbEAIQKA</string>
+  <string name="achievement_100_stage">CgkI0_O3prsbEAIQKQ</string>
+  <string name="achievement_250_stage">CgkI0_O3prsbEAIQKg</string>
+  <string name="achievement_500_stage">CgkI0_O3prsbEAIQKw</string>
+  <string name="achievement_50000_coin">CgkI0_O3prsbEAIQLA</string>
+  <string name="achievement_100000_coins">CgkI0_O3prsbEAIQLQ</string>
+  <string name="achievement_10000_score">CgkI0_O3prsbEAIQLg</string>
+  <string name="achievement_25000_score">CgkI0_O3prsbEAIQLw</string>
+  <string name="achievement_50000_score">CgkI0_O3prsbEAIQMA</string>
+  <string name="achievement_100000_score">CgkI0_O3prsbEAIQMQ</string>
+  <string name="achievement_500000_score">CgkI0_O3prsbEAIQMg</string>
+  <string name="leaderboard_high_score">CgkI0_O3prsbEAIQMw</string>
+  <string name="leaderboard_best_stage">CgkI0_O3prsbEAIQNA</string>
+</resources>

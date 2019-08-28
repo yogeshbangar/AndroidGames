@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+  <string name="app_id">717561049695</string>
+  <string name="achievement_baller">CgkI3-Tij_EUEAIQAQ</string>
+  <string name="achievement_bhalu">CgkI3-Tij_EUEAIQAg</string>
+  <string name="achievement_boltman">CgkI3-Tij_EUEAIQAw</string>
+  <string name="achievement_boy">CgkI3-Tij_EUEAIQBA</string>
+  <string name="achievement_chicken">CgkI3-Tij_EUEAIQBQ</string>
+  <string name="achievement_cow">CgkI3-Tij_EUEAIQBg</string>
+  <string name="achievement_crocodile">CgkI3-Tij_EUEAIQBw</string>
+  <string name="achievement_crying_boy">CgkI3-Tij_EUEAIQCA</string>
+  <string name="achievement_dog">CgkI3-Tij_EUEAIQCQ</string>
+  <string name="achievement_dragon">CgkI3-Tij_EUEAIQCg</string>
+  <string name="achievement_elephant">CgkI3-Tij_EUEAIQCw</string>
+  <string name="achievement_frenkenstein">CgkI3-Tij_EUEAIQDA</string>
+  <string name="achievement_horse">CgkI3-Tij_EUEAIQDQ</string>
+  <string name="achievement_girrafe">CgkI3-Tij_EUEAIQDg</string>
+  <string name="achievement_lion">CgkI3-Tij_EUEAIQDw</string>
+  <string name="achievement_mallard">CgkI3-Tij_EUEAIQEA</string>
+  <string name="achievement_man">CgkI3-Tij_EUEAIQEQ</string>
+  <string name="achievement_meerkat">CgkI3-Tij_EUEAIQEg</string>
+  <string name="achievement_wizard">CgkI3-Tij_EUEAIQEw</string>
+  <string name="achievement_mad_bull">CgkI3-Tij_EUEAIQFA</string>
+  <string name="achievement_panda">CgkI3-Tij_EUEAIQFQ</string>
+  <string name="achievement_pig">CgkI3-Tij_EUEAIQFg</string>
+  <string name="achievement_pigeon">CgkI3-Tij_EUEAIQFw</string>
+  <string name="achievement_pltypus">CgkI3-Tij_EUEAIQGA</string>
+  <string name="achievement_poppy">CgkI3-Tij_EUEAIQGQ</string>
+  <string name="achievement_pug">CgkI3-Tij_EUEAIQGg</string>
+  <string name="achievement_scruffy">CgkI3-Tij_EUEAIQGw</string>
+  <string name="achievement_sleeping_man">CgkI3-Tij_EUEAIQHA</string>
+  <string name="achievement_speciman">CgkI3-Tij_EUEAIQHQ</string>
+  <string name="achievement_ghost">CgkI3-Tij_EUEAIQHg</string>
+  <string name="achievement_turtle">CgkI3-Tij_EUEAIQHw</string>
+  <string name="achievement_vampire">CgkI3-Tij_EUEAIQIA</string>
+  <string name="achievement_zombie">CgkI3-Tij_EUEAIQIQ</string>
+  <string name="leaderboard_best_score">CgkI3-Tij_EUEAIQIg</string>
+</resources>

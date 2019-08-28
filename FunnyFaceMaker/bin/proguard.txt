@@ -1,0 +1,15 @@
+# view AndroidManifest.xml #generated:25
+-keep class com.google.android.gms.ads.AdActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:23
+-keep class com.robotics.app.funnyfacemaker.BrowsePicture2 { <init>(...); }
+
+# view AndroidManifest.xml #generated:24
+-keep class com.robotics.app.funnyfacemaker.CropImg { <init>(...); }
+
+# view AndroidManifest.xml #generated:15
+-keep class com.robotics.app.funnyfacemaker.Start { <init>(...); }
+
+# view res/layout/game.xml #generated:9
+-keep class com.robotics.app.funnyfacemaker.VortexView { <init>(...); }
+

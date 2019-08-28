@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Racer Boy</string>
+     <string name="sign_in_to_upload_this_score">Sign in now to upload this score, save your s and share your progress with friends.</string>
+    <string name="gamehelper_sign_in_failed">Failed to sign in. Please check your network connection and try again.</string>
+    <string name="gamehelper_app_misconfigured">The application is incorrectly configured. Check that the package name and signing certificate match the client ID created in Developer Console. Also, if the application is not yet published, check that the account you are trying to sign in with is listed as a tester account. See logs for more information.</string>
+    <string name="gamehelper_license_failed">License check failed.</string>
+    <string name="gamehelper_unknown_error">Unknown error.</string>
+    <string name="Banner">ca-app-pub-3395412980708319/6617047784</string>
+    <string name="INTERSTITIAL_ID">ca-app-pub-3395412980708319/8093780985</string>
+</resources>

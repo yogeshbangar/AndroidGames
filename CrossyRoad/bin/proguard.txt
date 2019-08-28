@@ -1,0 +1,19 @@
+# view AndroidManifest.xml #generated:19
+-keep class com.google.android.gms.ads.AdActivity { <init>(...); }
+
+# view res/layout/game.xml #generated:20
+# view res/layout/game.xml #generated:25
+-keep class com.google.android.gms.ads.AdView { <init>(...); }
+
+# view AndroidManifest.xml #generated:12
+-keep class com.hututu.game3d.crossyroad.Start { <init>(...); }
+
+# view AndroidManifest.xml #generated:30
+-keep class com.jirbo.adcolony.AdColonyBrowser { <init>(...); }
+
+# view AndroidManifest.xml #generated:27
+-keep class com.jirbo.adcolony.AdColonyFullscreen { <init>(...); }
+
+# view AndroidManifest.xml #generated:24
+-keep class com.jirbo.adcolony.AdColonyOverlay { <init>(...); }
+

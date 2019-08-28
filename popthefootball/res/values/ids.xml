@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+  <string name="app_id">66105793760</string>
+  <string name="achievement_football_blaster">CgkI4LnZofYBEAIQAQ</string>
+  <string name="achievement_master_football_blaster">CgkI4LnZofYBEAIQAg</string>
+  <string name="achievement_fast_football_blaster">CgkI4LnZofYBEAIQAw</string>
+  <string name="achievement_king_football_blaster">CgkI4LnZofYBEAIQBA</string>
+  <string name="achievement_football_jumper">CgkI4LnZofYBEAIQBQ</string>
+  <string name="achievement_master_football_jumper">CgkI4LnZofYBEAIQBg</string>
+  <string name="achievement_safe_football_jumper">CgkI4LnZofYBEAIQBw</string>
+  <string name="achievement_king_football_jumper">CgkI4LnZofYBEAIQCA</string>
+  <string name="achievement_football_painter">CgkI4LnZofYBEAIQCQ</string>
+  <string name="achievement_master_football_painter">CgkI4LnZofYBEAIQCg</string>
+  <string name="achievement_fast_football_painter">CgkI4LnZofYBEAIQCw</string>
+  <string name="achievement_king_football_painter">CgkI4LnZofYBEAIQDA</string>
+  <string name="achievement_football_pilot">CgkI4LnZofYBEAIQDQ</string>
+  <string name="achievement_master_football_pilot">CgkI4LnZofYBEAIQDg</string>
+  <string name="achievement_super_football_pilot">CgkI4LnZofYBEAIQDw</string>
+  <string name="achievement_king_football_pilot">CgkI4LnZofYBEAIQEA</string>
+  <string name="achievement_mathematician">CgkI4LnZofYBEAIQEQ</string>
+  <string name="achievement_master_mathematician">CgkI4LnZofYBEAIQEg</string>
+  <string name="achievement_fast_mathematician">CgkI4LnZofYBEAIQEw</string>
+  <string name="achievement_king_mathematician">CgkI4LnZofYBEAIQFA</string>
+  <string name="achievement_footballer">CgkI4LnZofYBEAIQFQ</string>
+  <string name="achievement_master_footballer">CgkI4LnZofYBEAIQFg</string>
+  <string name="achievement_big_footballer">CgkI4LnZofYBEAIQFw</string>
+  <string name="achievement_king_footballer">CgkI4LnZofYBEAIQGA</string>
+  <string name="achievement_football_tracker">CgkI4LnZofYBEAIQGQ</string>
+  <string name="achievement_master_football_tracker">CgkI4LnZofYBEAIQGg</string>
+  <string name="achievement_high_football_tracker">CgkI4LnZofYBEAIQGw</string>
+  <string name="achievement_king_football_tracker">CgkI4LnZofYBEAIQHA</string>
+  <string name="achievement_runner">CgkI4LnZofYBEAIQHQ</string>
+  <string name="achievement_master_runner">CgkI4LnZofYBEAIQHg</string>
+  <string name="achievement_high_runner">CgkI4LnZofYBEAIQHw</string>
+  <string name="achievement_king_runner">CgkI4LnZofYBEAIQIA</string>
+  <string name="achievement_double_blaster">CgkI4LnZofYBEAIQIQ</string>
+  <string name="achievement_master_double_blaster">CgkI4LnZofYBEAIQIg</string>
+  <string name="achievement_fast_double_blaster">CgkI4LnZofYBEAIQIw</string>
+  <string name="achievement_king_double_blaster">CgkI4LnZofYBEAIQJA</string>
+  <string name="achievement_goal_hitter">CgkI4LnZofYBEAIQJQ</string>
+  <string name="achievement_master_goal_hitter">CgkI4LnZofYBEAIQJg</string>
+  <string name="achievement_fast_goal_hitter">CgkI4LnZofYBEAIQJw</string>
+  <string name="achievement_king_goal_hitter">CgkI4LnZofYBEAIQKA</string>
+  <string name="achievement_football_springer">CgkI4LnZofYBEAIQKQ</string>
+  <string name="achievement_master_football_springer">CgkI4LnZofYBEAIQKg</string>
+  <string name="achievement_fast_football_springer">CgkI4LnZofYBEAIQKw</string>
+  <string name="achievement_king_football_springer">CgkI4LnZofYBEAIQLA</string>
+  <string name="leaderboard_football_blaster">CgkI4LnZofYBEAIQLQ</string>
+  <string name="leaderboard_football_jumper">CgkI4LnZofYBEAIQLg</string>
+  <string name="leaderboard_football_painter">CgkI4LnZofYBEAIQLw</string>
+  <string name="leaderboard_football_pilot">CgkI4LnZofYBEAIQMA</string>
+  <string name="leaderboard_mathematician">CgkI4LnZofYBEAIQMQ</string>
+  <string name="leaderboard_footballer">CgkI4LnZofYBEAIQMg</string>
+  <string name="leaderboard_football_tracker">CgkI4LnZofYBEAIQMw</string>
+  <string name="leaderboard_runner">CgkI4LnZofYBEAIQNA</string>
+  <string name="leaderboard_double_blaster">CgkI4LnZofYBEAIQNQ</string>
+  <string name="leaderboard_goal_hitter">CgkI4LnZofYBEAIQNg</string>
+  <string name="leaderboard_football_springer">CgkI4LnZofYBEAIQNw</string>
+</resources>
