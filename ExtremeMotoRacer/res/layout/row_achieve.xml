@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" 
-    android:layout_height="fill_parent" android:layout_width="fill_parent" android:id="@+id/RL">  
-	<ImageView android:layout_height="wrap_content" android:id="@+id/IV1" android:layout_width="wrap_content" android:src="@drawable/icon"></ImageView>
-    <LinearLayout android:layout_alignParentRight="true"   android:gravity="right" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
-    	<ImageView android:layout_height="wrap_content" android:id="@+id/IV2" android:layout_width="wrap_content" ></ImageView>
-    	<Button android:background="@layout/getbutton" android:layout_height="wrap_content" android:id="@+id/AB1" android:layout_width="wrap_content" android:src="@drawable/icon"></Button>
-	</LinearLayout>
-</RelativeLayout>  
