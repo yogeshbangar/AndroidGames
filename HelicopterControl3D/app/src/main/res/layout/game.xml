@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+     xmlns:surfaceview="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+	<FrameLayout  android:orientation = "vertical" android:layout_width = "fill_parent" android:layout_height = "fill_parent" android:keepScreenOn="true">
+
+ 
+ <org.rajawali3d.surface.RajawaliSurfaceView
+        android:id="@+id/rajawali_surface"
+        android:layout_width="fill_parent"
+   	    android:layout_height="fill_parent"
+        surfaceview:frameRate="60.0"
+        surfaceview:renderMode="RENDER_WHEN_DIRTY"/>
+	</FrameLayout>
+	
+</LinearLayout>
