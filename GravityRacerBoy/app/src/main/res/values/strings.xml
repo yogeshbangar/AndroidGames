@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Racer Boy</string>
+    <string name="BANNER_ID">ca-app-pub-7665074309496944/6124291718</string>
+    <string name="INTERSTITIAL_ID">ca-app-pub-7665074309496944/9077758117</string>
+    <string name="REWARD_ID">ca-app-pub-7665074309496944/5034548331</string>
+    <string name="ADS_APP_ID">ca-app-pub-7665074309496944~4647558519</string>
+</resources>
