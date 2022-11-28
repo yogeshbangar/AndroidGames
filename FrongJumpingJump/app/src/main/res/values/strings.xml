@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Frog Jumping Jump</string>
+    <string name="BANNER_ID">ca-app-pub-7665074309496944/5044511314</string>
+    <string name="INTERSTITIAL_ID">ca-app-pub-7665074309496944/9474710916</string>
+    <string name="REWARD_ID">ca-app-pub-7665074309496944/5059093901</string>
+    <string name="TEST_ID">ca-app-pub-3940256099942544/5224354917</string>
+    <string name="ADS_APP_ID">ca-app-pub-7665074309496944~3567778116</string>
+</resources>
