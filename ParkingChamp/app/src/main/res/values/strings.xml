@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Parking Champ</string>
+    <string name="BANNER_ID">ca-app-pub-7665074309496944/4041149315</string>
+    <string name="INTERSTITIAL_ID">ca-app-pub-7665074309496944/5517882519</string>
+    <string name="REWARD_ID">ca-app-pub-7665074309496944/9775238118</string>
+    <string name="ADS_APP_ID">ca-app-pub-7665074309496944~2564416114</string>
+</resources>
